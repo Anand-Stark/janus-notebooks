@@ -1,0 +1,4 @@
+Hello, GitHub!
+
+This is a test file uploaded using the GitHub API.
+Automated file uploads make version control easier.
